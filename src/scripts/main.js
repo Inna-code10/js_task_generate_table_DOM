@@ -1,6 +1,6 @@
 'use strict';
 
-import { people } from './people.json';
+import people from './people.json';
 
 const table = document.querySelector('.dashboard');
 
